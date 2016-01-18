@@ -1,0 +1,2 @@
+# TugasSO
+Sistem Operasi
